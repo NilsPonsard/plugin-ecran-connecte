@@ -12,3 +12,8 @@ Pour avoir l'identifiant d'un emploi du temps :
   - Cliquez sur la petite baguette - la suite un autre jours...
 
 Langages utilisés : HTML, CSS, PHP, JS, SQL
+
+
+plugins wp : 
+- [https://memberpress.com/plugins/members/](https://memberpress.com/plugins/members/)
+- [https://wp-pdf.com/](https://wp-pdf.com/)
